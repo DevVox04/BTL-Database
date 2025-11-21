@@ -14,7 +14,7 @@ Tạo file `.env` trong thư mục `backend/` với nội dung sau:
 ```env
 # Database Configuration
 DB_DRIVER=ODBC Driver 17 for SQL Server
-DB_SERVER=MSI\\SQLEXPRESS
+DB_SERVER=localhost\\SQLEXPRESS
 DB_DATABASE=QLSINHVIEN1
 DB_USER=sa
 DB_PASSWORD=123
